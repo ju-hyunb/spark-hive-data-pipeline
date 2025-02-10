@@ -1,6 +1,6 @@
-## Spark-Hive Data Pipeline (Java)
+## DE 개발 사전 과제 (Java)
 
-### 1. 자바 언어 선택 이유
+### 1. Java 언어 선택 이유
 주 언어는 **Python**이지만, 최근 프로젝트에서 **Java**를 사용해본 경험이 있어 선택했습니다.  
 
 ---
